@@ -18,7 +18,7 @@ inputs.forEach((input) => {
 });
 
 console.log(
-  "%c Coder : Đinh Duy Vinh %c",
+  "%c Coder : Nguyễn Văn Chính %c",
   'font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;font-size:24px;color:#00bbee;-webkit-text-fill-color:#00bbee;-webkit-text-stroke: 1px #00bbee;',
   "font-size:12px;color:#999999;"
 );
